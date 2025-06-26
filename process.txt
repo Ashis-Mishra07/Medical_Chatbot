@@ -1,0 +1,17 @@
+BACKEND
+
+1. There will be a medical book . 
+2. Extract the text from it . 
+3. create chunks from the text
+4. create embeddings from it 
+5. create a vector embedding
+6. build a semantic index 
+7. pipecone vector db  (knowledge base)
+
+
+FRONTEND
+1. user asks a query
+2. convert it into query embedding
+3. asks to pipecone
+4. return the  ranked result
+5. use LLM 
